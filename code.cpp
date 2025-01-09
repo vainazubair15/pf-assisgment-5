@@ -11,7 +11,7 @@ struct Vehicle {
     string licensePlate;
     string registrationDate;
 };
-
+//mar
 // Structure for Traffic Violation
 struct Violation {
     int violationID;
