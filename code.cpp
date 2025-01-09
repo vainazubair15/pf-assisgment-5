@@ -19,7 +19,7 @@ struct Violation {
     string violationType;
     string dateTime;
     double fineAmount;
-    //arshia pgl
+    //arshia 
 };
 
 // Arrays for storing data
